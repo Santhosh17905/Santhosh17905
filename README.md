@@ -27,27 +27,33 @@
 
 ## 🧠 About Me
 
-```python
-class SanthoshS:
-    def __init__(self):
-        self.name         = "Santhosh S"
-        self.degree       = "B.E. Electronics & Communication Engineering (Hons)"
-        self.college      = "St. Joseph College of Engineering, Chennai"
-        self.cgpa         = 8.74
-        self.focus        = ["Machine Learning", "Deep Learning",
-                             "Computer Vision", "NLP"]
-        self.tools        = ["Python", "TensorFlow", "Keras",
-                             "Scikit-learn", "OpenCV", "PyTorch"]
-        self.internships  = 4
-        self.projects     = "40+"
-        self.status       = "🟢 Open to Work — AI/ML Engineer | GET | SDE"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent 🚀")
+### 👋 Hi, I'm Santhosh S — ECE Graduate & AI/ML Enthusiast
 
-me = SanthoshS()
-me.say_hi()
-```
+</div>
+
+🎓 **B.E. Electronics & Communication Engineering (Hons)**
+St. Joseph College of Engineering, Chennai · CGPA **8.74 / 10**
+
+🔭 I'm passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and NLP.
+
+🚀 **What I do:**
+- 🧠 Build and deploy **end-to-end ML/DL models** — from raw data to evaluated production pipelines
+- 👁️ Develop **Computer Vision systems** — face recognition, emotion detection, object classification
+- 🤖 Explore **NLP pipelines** — sentiment analysis, text classification, TF-IDF
+
+📌 **Quick Facts:**
+- 💼 **4 Industry Internships** — ML, AI, Data Analytics, Cloud Computing
+- 🏗️ **40+ Projects** — Deep Learning, CV, NLP, Predictive Analytics
+- ✅ **TCS iON NQT Cognitive Qualified** — Jan 2026
+- ✅ **AWS AI Practitioner** — Udacity / AWS · Jun 2026
+- 🏅 **LG Scholarship Holder** · **Department Rank Holder** — ECE, SJCE
+- 📍 Thiruvarur, Tamil Nadu · Open to Remote / Hybrid / On-site
+
+🎯 **Currently seeking:** AI/ML Engineer · Data Scientist · GET · Software Developer roles
+
+> *"Turning data into dependable decisions — one model at a time."*
 
 ---
 
@@ -163,14 +169,6 @@ me.say_hi()
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh17905&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=6366f1&fire=f59e0b&currStreakLabel=0ea5e9" />
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh17905&bg_color=0d1117&color=0ea5e9&line=6366f1&point=f59e0b&area=true&hide_border=true" />
 </div>
 
 ---
